@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/EduAUVICWANTArrows-VariableFont_wght.ttf",
+      "sha1": "2a190b09bf2c27ccfa0eebe13b55fbc11fae7517"
+    },
+    {
+      "path": "assets/fonts/Italiana-Regular.ttf",
+      "sha1": "e10f8b2b90e4e72c4f4fc2e7ddff58198756100d"
+    },
+    {
+      "path": "assets/fonts/LibreBaskerville-Italic.ttf",
+      "sha1": "a9fdc9750d8e49ed1118288711699b11e5c84269"
+    }
+  ]
+}
